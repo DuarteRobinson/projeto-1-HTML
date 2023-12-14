@@ -1,0 +1,59 @@
+body{
+    color: rgb(138, 43, 226);
+    background-color: black;
+    border: 5px solid blueviolet;
+    position: relative;
+    font-family: sans-serif;
+}
+
+.title1{
+    display: flex;
+    gap: 5px;
+    margin-left: 20px;
+    padding: 30px 10px;
+}
+
+.text1{
+    font-size: large;
+    padding-top: 18px;
+}
+
+.icone_puzzle{
+    transform: rotateY(180deg);
+}
+
+.text2{
+    padding: 80px 90px;
+}
+
+.box1{
+    background-color: blueviolet;
+    width: 500px;
+    height: 400px;
+    margin-left: 100px;
+    position: relative;
+    left: 700px;
+    bottom: 220px;
+}
+
+.icone_img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 120px;
+}
+
+.lorem1{
+    font-size: 50px;
+    width: 900px;
+}
+
+.lorem2{
+    width: 700px;
+}
+
+.button1{
+    background-color: blueviolet;
+    width: 300px;
+    height: 100px;
+}
